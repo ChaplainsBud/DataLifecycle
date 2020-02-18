@@ -24,3 +24,5 @@ public class DataLoader implements CommandLineRunner {
         repository.save(course);
     }
 }
+
+// I want to clone and change details
